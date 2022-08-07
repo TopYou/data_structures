@@ -3,7 +3,7 @@ package algorithms.sort.advanced_sort;
 import java.util.Scanner;
 
 /*
- *快速排序
+ * 快速排序
  * 不稳定
  * 时间复杂度: 最好O(logN) 最坏：O(n^2)
  * 最后leftIndex>rightIndex时需要交换从左边最接近leftIndex的比基准值小的那一个
